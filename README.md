@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @xjloh, my full name is Xin Jun Loh, but I also go by Jamie!
-- 👀 I’m interested in learning Python and improving my overall coding abilities.
-- 🌱 I’m currently learning Python, Spring boot and MongoDB.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, my full name is Xin Jun Loh, but I also go by Jamie!
+- 👀 Expriences using Javascript, Typescript, PHP, CSS, HTML, Java, C, C++ and MySQL.
+- 🍑 I’m currently working full-time at PeachPay as a full-stack software engineer.
 - 📫 You can reach me through email: xinjun978@gmail.com
 
 <!---
