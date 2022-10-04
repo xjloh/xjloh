@@ -1,5 +1,5 @@
 - 👋 Hi, my full name is Xin Jun Loh, but I also go by Jamie!
-- 👀 Expriences using Javascript, Typescript, PHP, CSS, HTML, Java, C, C++ and MySQL.
+- 👀 I have expriences using Javascript, Typescript, PHP, CSS, HTML, Java, C, C++ and MySQL.
 - 🍑 I’m currently working full-time at PeachPay as a full-stack software engineer.
 - 📫 You can reach me through email: xinjun978@gmail.com
 
